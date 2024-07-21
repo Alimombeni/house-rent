@@ -5,7 +5,7 @@ const homePage = () => {
         <div>
 
 
-  id page
+  this is id page
         </div>
     )
 }
