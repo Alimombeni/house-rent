@@ -5,9 +5,7 @@ export const metaData = {
     title:'House rental ',
     description : 'Find your dream rental property',
     keywords:'rental , find rental , find properties',
-
 }
-
 
 const mainLayout = ( { children } ) =>{
 
