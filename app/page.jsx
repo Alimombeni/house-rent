@@ -4,8 +4,7 @@ const homePage = () => {
     return(
         <div>
 
-
-this is properties page
+<h2>home page</h2>
         </div>
     )
 }

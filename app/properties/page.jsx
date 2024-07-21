@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 
-const homePage = () => {
+const propertiesPage = () => {
     return(
         <div>
             <h1 className='text-3xl'>Properties</h1>
@@ -10,4 +10,4 @@ const homePage = () => {
     )
 }
 
-export default homePage;
+export default propertiesPage;

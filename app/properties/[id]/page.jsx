@@ -1,13 +1,11 @@
 
 
-const homePage = () => {
+const idPage = () => {
     return(
         <div>
-
-
-  this is id page
+            <h4>id page</h4>
         </div>
     )
 }
 
-export default homePage;
+export default idPage;

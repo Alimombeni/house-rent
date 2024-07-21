@@ -1,13 +1,13 @@
 
 
-const homePage = () => {
+const addPage = () => {
     return(
         <div>
 
+<h3>add page</h3>
 
-     Add page
         </div>
     )
 }
 
-export default homePage;
+export default addPage;
